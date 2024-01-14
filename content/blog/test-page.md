@@ -10,3 +10,4 @@ tags = [
 +++
 
 testicals
+[secret link to not click](/secret/testsecret)
