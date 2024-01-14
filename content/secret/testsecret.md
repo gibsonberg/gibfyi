@@ -7,7 +7,7 @@ tags = [
     "placeholder",
 ]
 
-draft = true
+draft = false
 +++
 
 this is a secret that can only be found via hotlink from another page
