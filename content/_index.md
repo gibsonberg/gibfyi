@@ -13,7 +13,7 @@ for fun, adding non-serious articles and secrets and whatnot.
 
 I'm currently in undergrad studying Civil Engineering at the University of Minnesota. I have
 particular interest in urban mobility, and intend to focus primarily on transportation, ideally
-pedetrian, bicycle, and rail infrastructure. I'm also interested in learning more about
+pedestrian, bicycle, and rail infrastructure. I'm also interested in learning more about
 [Intelligent Transportation Systems.](https://en.wikipedia.org/wiki/Intelligent_transportation_system)
 
 Feel free to contact me by [email](mailto:berg@gib.fyi) for whatever reason. While I do have accounts
