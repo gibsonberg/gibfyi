@@ -16,5 +16,8 @@ particular interest in urban mobility, and intend to focus primarily on transpor
 pedestrian, bicycle, and rail infrastructure. I'm also interested in learning more about
 [Intelligent Transportation Systems.](https://en.wikipedia.org/wiki/Intelligent_transportation_system)
 
+This website was built using [Cao Lente's](https://lente.dev/en/) theme [Bear Cub](https://github.com/clente/hugo-bearcub)
+for [Hugo.](https://gohugo.io/)
+
 Feel free to contact me by [email](mailto:berg@gib.fyi) for whatever reason. While I do have accounts
 on various social media platforms, I generally prefer to keep those to personal uses only.
