@@ -13,6 +13,10 @@ draft = false
 
 testicals
 
+this is the page where i will test various features of markdown and how this site renders the final
+result. it shouldn't generally be visible on the site after i'm done with all of my initial setup;
+i probably won't remove the html though since it might be of some use later.
+
 [secret link to not click](/secret/testsecret)
 
 here is a funny image of a cat, which is also the first image on this website. his name is boyno2:
