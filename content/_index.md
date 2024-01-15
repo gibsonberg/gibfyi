@@ -4,27 +4,17 @@ menu: "main"
 weight: 1
 ---
 
-# gibsdong berg
+# About
 
-This is the initial test landing/home page for my personal website/blog/whatever. Created using
-[Caio lente's](https://lente.dev/en) awesome, lightweight [Hugo](https://gohugo.io/) theme
-*Bear Cub*.
+I'm Gibson Berg and this is my personal website. As of writing this, it takes the form of a blog.
+I intend to eventually write some brief articles here, and use this website as a way of accessing
+various files and other resources I want to make public. I'll probably also end up using this just
+for fun, adding non-serious articles and secrets and whatnot.
 
-> This is an example of a quote in the markdown used by Hugo.
->
-> --- Gibson Berg
+I'm currently in undergrad studying Civil Engineering at the University of Minnesota. I have
+particular interest in urban mobility, and intend to focus primarily on transportation, ideally
+pedetrian, bicycle, and rail infrastructure. I'm also interested in learning more about
+[Intelligent Transportation Systems.](https://en.wikipedia.org/wiki/Intelligent_transportation_system)
 
-This is an example of **bold text**!
-
-I probably intend on fucking with the style sheet more than what I've done so far (changing the primary
-font and background color) once I've learned a little more CSS. Some things I would like to do include:
-
-* Adding a different, complimentary font for titles/major headings,
-* Changing how those links up top look, maybe,
-* and whatever else I need to figure out. I just included this to have a 3-point list.
-
-I'll have to read more about [this markdown](https://spec.commonmark.org/0.30/) and play around with it.
-It would certainly be fun to take some photos and include them here every once in a while, too.
-
-Maybe eventually I will add a Spanish portion of this site, since this theme makes bilingual pages easy,
-but that will be a future endeavor.
+Feel free to contact me by [email](mailto:berg@gib.fyi) for whatever reason. While I do have accounts
+on various social media platforms, I generally prefer to keep those to personal uses only.
