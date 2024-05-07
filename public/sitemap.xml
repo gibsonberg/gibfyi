@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gib.fyi/</loc>
+    <lastmod>2024-05-06T21:46:49-05:00</lastmod>
+  </url><url>
+    <loc>https://gib.fyi/blog/</loc>
+    <lastmod>2024-05-06T21:46:49-05:00</lastmod>
+  </url><url>
+    <loc>https://gib.fyi/tags/placeholder/</loc>
     <lastmod>2024-01-14T17:50:28-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://gib.fyi/secret/</loc>
+    <lastmod>2024-01-14T17:50:28-06:00</lastmod>
+  </url><url>
+    <loc>https://gib.fyi/tags/</loc>
+    <lastmod>2024-01-14T17:50:28-06:00</lastmod>
+  </url><url>
+    <loc>https://gib.fyi/secret/testsecret/</loc>
+    <lastmod>2024-01-14T17:50:28-06:00</lastmod>
+  </url><url>
+    <loc>https://gib.fyi/tags/playing-around/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/placeholder/</loc>
-    <lastmod>2024-01-14T17:50:28-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/secret/</loc>
-    <lastmod>2024-01-14T17:50:28-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-01-14T17:50:28-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/secret/testsecret/</loc>
-    <lastmod>2024-01-14T17:50:28-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/playing-around/</loc>
+    <loc>https://gib.fyi/tags/test/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
+    <loc>https://gib.fyi/blog/test-page/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/test-page/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://gib.fyi/tags/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/placeholder-text/</loc>
+    <loc>https://gib.fyi/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
+    <loc>https://gib.fyi/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gib.fyi/categories/</loc>
   </url>
 </urlset>
