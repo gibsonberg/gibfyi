@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Placeholder on gib.fyi</title>
+    <link>http://localhost:1313/tags/placeholder/</link>
+    <description>Recent content in Placeholder on gib.fyi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>berg@gib.fyi (Gibson Berg)</managingEditor>
+    <webMaster>berg@gib.fyi (Gibson Berg)</webMaster>
+    <copyright>Gibson Berg (CC BY-NC 4.0)</copyright>
+    <lastBuildDate>Sun, 14 Jan 2024 17:50:28 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/placeholder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testsecret</title>
+      <link>http://localhost:1313/secret/testsecret/</link>
+      <pubDate>Sun, 14 Jan 2024 17:50:28 -0600</pubDate><author>berg@gib.fyi (Gibson Berg)</author>
+      <guid>http://localhost:1313/secret/testsecret/</guid>
+      <description>this is a secret that can only be found via hotlink from another page or somehow finding the exact URL&#xA;edit 2024-01-14 20:11 &amp;ndash; it appears that secrets appear in RSS feed, unsure if this will be an issue. please test further.</description>
+      <content:encoded><![CDATA[<p>this is a secret that can only be found via hotlink from another page
+or somehow finding the exact URL</p>
+<p>edit 2024-01-14 20:11 &ndash; it appears that secrets appear in RSS feed, unsure if this will be an
+issue. please test further.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

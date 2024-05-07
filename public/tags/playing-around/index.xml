@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Playing Around on gib.fyi</title>
+    <link>http://localhost:1313/tags/playing-around/</link>
+    <description>Recent content in Playing Around on gib.fyi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>berg@gib.fyi (Gibson Berg)</managingEditor>
+    <webMaster>berg@gib.fyi (Gibson Berg)</webMaster>
+    <copyright>Gibson Berg (CC BY-NC 4.0)</copyright>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/playing-around/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Page</title>
+      <link>http://localhost:1313/blog/test-page/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><author>berg@gib.fyi (Gibson Berg)</author>
+      <guid>http://localhost:1313/blog/test-page/</guid>
+      <description>testicals&#xA;this is the page where i will test various features of markdown and how this site renders the final result. it shouldn&amp;rsquo;t generally be visible on the site after i&amp;rsquo;m done with all of my initial setup; i probably won&amp;rsquo;t remove the html though since it might be of some use later.&#xA;secret link to not click&#xA;here is a funny image of a cat, which is also the first image on this website.</description>
+      <content:encoded><![CDATA[<p>testicals</p>
+<p>this is the page where i will test various features of markdown and how this site renders the final
+result. it shouldn&rsquo;t generally be visible on the site after i&rsquo;m done with all of my initial setup;
+i probably won&rsquo;t remove the html though since it might be of some use later.</p>
+<p><a href="/secret/testsecret/">secret link to not click</a></p>
+<p>here is a funny image of a cat, which is also the first image on this website. his name is boyno2:</p>
+<p><img alt="cat with face dipped in thick white gloop" src="/images/content/blog/test-page/boyno2.jpg"></p>
+<p>now, testing that image but inline with text to see how that&rsquo;s handled:
+<img alt="cat with face dipped in thick white gloop" src="/images/content/blog/test-page/boyno2.jpg"></p>
+<p>here&rsquo;s a very large image to ensure that that doesn&rsquo;t break anything</p>
+<p><img alt="a dark and gloomy wallpaper-sized image of some woods" src="/images/content/blog/test-page/testwallpaper.jpg"></p>
+<p>now, testing that one inline:
+<img alt="a dark and gloomy wallpaper-sized image of some woods" src="/images/content/blog/test-page/testwallpaper.jpg"></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
