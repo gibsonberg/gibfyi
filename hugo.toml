@@ -1,7 +1,7 @@
 # Basic config
 baseURL = "https://gib.fyi/"
 theme = "hugo-bearcub"
-copyright = "Gibson Berg [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)"
+copyright = "Gibson Berg (CC BY-NC 4.0)"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
